@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Partidos Atlético Nacional
+X-WR-TIMEZONE:America/Bogota
+
+
+BEGIN:VEVENT
+UID:partido1@atlnacional.com
+DTSTAMP:20250129T120000Z
+DTSTART:20250129T000000Z
+DTEND:20250129T020000Z
+SUMMARY:Atlético Nacional vs Bucaramanga
+DESCRIPTION:Partido de Superliga local en el Estadio Atanasio Girardot.
+LOCATION:Estadio Atanasio Girardot, Medellín, Colombia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:partido1@atlnacional.com
+DTSTAMP:20250128T120000Z
+DTSTART:20250215T000000Z
+DTEND:20250215T020000Z
+SUMMARY:Atlético Nacional vs Deportivo Cali
+DESCRIPTION:Partido de liga local en el Estadio Atanasio Girardot.
+LOCATION:Estadio Atanasio Girardot, Medellín, Colombia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:partido2@atlnacional.com
+DTSTAMP:20250128T120000Z
+DTSTART:20250220T000000Z
+DTEND:20250220T020000Z
+SUMMARY:Atlético Nacional vs Junior
+DESCRIPTION:Partido de liga local en el Estadio Atanasio Girardot.
+LOCATION:Estadio Atanasio Girardot, Medellín, Colombia
+END:VEVENT
+
+END:VCALENDAR
