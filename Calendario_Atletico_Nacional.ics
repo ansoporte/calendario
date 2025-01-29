@@ -19,9 +19,9 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:001
 DTSTAMP:20250128T120000Z
-DTSTART;TZID=America/Bogota:20250129T190000
-DTEND;TZID=America/Bogota:20250129T210000
-SUMMARY:Atlético Nacional vs Bucaramanga
+DTSTART;TZID=America/Bogota:20250130T190000
+DTEND;TZID=America/Bogota:20250130T210000
+SUMMARY:Partido de Superliga Atlético Nacional vs Bucaramanga
 DESCRIPTION:Partido de Superliga local en el Estadio Atanasio Girardot.
 LOCATION:Estadio Atanasio Girardot, Medellín, Colombia
 END:VEVENT
